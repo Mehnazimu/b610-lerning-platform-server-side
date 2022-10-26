@@ -1,0 +1,23 @@
+[
+    {
+        "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "course_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "price": "$135",
+        "title": "Learn web development with HTML, CSS, Bootstrap 4, ES6 React and Node",
+        "instructor": {
+            "name": "Jimmy Dane",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://www.susla.edu/assets/susla/images/WebDevelopmentImage.jpeg",
+        "description": "Web development is the work involved in developing a website for the Internet or an intranet. Web development can range from developing a simple single static page of plain text to complex web applications, electronic businesses, and social network services.",
+        "details": "In this course you will get to learn and build websites with HTML & CSS,
+        Build backend servers & APIs with Node and Express,
+        Work with NoSQL databases like MongoDB,
+        Build full-stack web apps with Facebook's React Framework,
+        Build mobile-friendly websites with Bootstrap 4 & CSS"
+    },
+    
